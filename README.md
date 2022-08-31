@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to program
 - 🌱 I’m currently learning freecodecamp
 - 💞️ I’m looking to collaborate on interesting projects 
-- 📫 How to reach me daithi1.0@yahoo.com 
+- 📫 How to reach me github.com/daithi1point0 
 
 <!---
 daithi1point0/daithi1point0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
