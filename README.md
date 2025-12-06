@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daithi1point0
-- 👀 I’m interested in learning to program
-- 🌱 I’m currently learning freecodecamp
+- 👀 I’m interested in learning data analytics 
+- 🌱 I’m currently learning excel
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me github.com/daithi1point0 
 
